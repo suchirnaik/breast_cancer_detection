@@ -1,5 +1,4 @@
 # breast_cancer_detection
-Here’s a shortened version of the README for your project:
 
 Breast Cancer Detection Model
 
