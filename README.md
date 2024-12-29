@@ -50,7 +50,7 @@ pipeline_run.wait_for_completion(show_output=True)
 
 Model Deployment
 
-After training, the model can be deployed using Azure Container Instances (ACI) for real-time predictions.
+After training, the model cwe deployed it using realtime endpoint
 
 Improvements
 
